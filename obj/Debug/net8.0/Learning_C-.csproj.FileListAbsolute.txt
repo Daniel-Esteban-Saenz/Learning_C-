@@ -1,0 +1,15 @@
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\Learning_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\Learning_C-.AssemblyInfoInputs.cache
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\Learning_C-.AssemblyInfo.cs
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\Learning_C-.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\Learning_C-.sourcelink.json
+C:\Users\Danie\Documents\Repos\Learning_C-\bin\Debug\net8.0\Learning_C-.exe
+C:\Users\Danie\Documents\Repos\Learning_C-\bin\Debug\net8.0\Learning_C-.deps.json
+C:\Users\Danie\Documents\Repos\Learning_C-\bin\Debug\net8.0\Learning_C-.runtimeconfig.json
+C:\Users\Danie\Documents\Repos\Learning_C-\bin\Debug\net8.0\Learning_C-.dll
+C:\Users\Danie\Documents\Repos\Learning_C-\bin\Debug\net8.0\Learning_C-.pdb
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\Learning_C-.dll
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\refint\Learning_C-.dll
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\Learning_C-.pdb
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\Learning_C-.genruntimeconfig.cache
+C:\Users\Danie\Documents\Repos\Learning_C-\obj\Debug\net8.0\ref\Learning_C-.dll
